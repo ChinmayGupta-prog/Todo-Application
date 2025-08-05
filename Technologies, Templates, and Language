@@ -1,0 +1,23 @@
+Language:
+
+Java
+
+Technologies & Frameworks:
+
+Spring Boot: The core framework used to build the application.
+
+Spring MVC: Handles web requests and routing.
+
+Spring Data JPA: Used for database interactions.
+
+Bootstrap: A CSS framework for styling the user interface.
+
+Lombok: A library used to reduce boilerplate code in model classes.
+
+Template Engine:
+
+Thymeleaf: Used to generate dynamic HTML content on the server side.
+
+Data Model:
+
+The application uses a Task entity with an id, title, and completed status to represent to-do items.
